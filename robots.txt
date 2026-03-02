@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://directmetalprint.com/sitemap.xml
